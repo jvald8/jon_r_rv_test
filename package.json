@@ -1,0 +1,24 @@
+{
+  "name": "widgets-spa",
+  "version": "1.0.0",
+  "description": "This is a simple multi-page HTML site. The goal of this project is to take this hardcoded HTML site, and make it hit an API for showing/listing user and widget information.",
+  "main": "indexController.js",
+  "dependencies": {
+    "express": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RedVentures/widgets-spa.git"
+  },
+  "author": "Jon Ringvald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RedVentures/widgets-spa/issues"
+  },
+  "homepage": "https://github.com/RedVentures/widgets-spa"
+}
