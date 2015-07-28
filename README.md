@@ -1,5 +1,12 @@
+# Initialize jon answer:
+1. clone repo
+2. run npm install
+3. run 'node server' in command line
+4. go to http://localhost:3001/ in your browser
+
+
 # Widgets Single Page App Demo
-This is a simple multi-page HTML site. The goal of this project is to take this hardcoded HTML site, and make it hit an API for showing/listing user and widget information. 
+This is a simple multi-page HTML site. The goal of this project is to take this hardcoded HTML site, and make it hit an API for showing/listing user and widget information.
 
 
 ## Features
